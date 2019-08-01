@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2019-06-30T19:39:41Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.4.1"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "v1"
+        },
+        "Owner": "Krzysztof Zdulski <krzys.zdulski@gmail.com>",
+        "Size": {
+            "X": 56,
+            "Y": 30
+        }
+    }
+}

@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding='UTF-8'?>
+<CAMsetup>
+	<thisfile>C:\Users\Krzysiek\Electronics\WiFi LED Controller v2\outputs\v1\_project.camset</thisfile>
+	<morelayertypes>
+	</morelayertypes>
+	<usecolors>
+		<mixer>0.000</mixer>
+		<object type="Plated H. In">00222222</object>
+		<object type="Plated H. Out">00000000</object>
+		<object type="Edge In">00172A00</object>
+		<object type="Edge Out">00172A00</object>
+		<object type="Volume">F3172A00</object>
+		<object type="Background">00FFFFFF</object>
+		<layer type="PasteMask">00CDCDCD</layer>
+		<layer type="Silkscreen">00D0D0D0</layer>
+		<layer type="SolderMask">E3182E00</layer>
+		<layer type="Copper">00AD8215</layer>
+		<layer type="Core">00000000</layer>
+		<layer type="Prepreg">00000000</layer>
+		<layer type="BoardOutline">00000000</layer>
+	</usecolors>
+	<boardlayers>
+		<layer type="Silkscreen" H="35" Er="0.000" color="00B8EFC1">
+			<filename>C:\Users\Krzysiek\Electronics\WiFi LED Controller v2\outputs\v1\silkscreen_top.plc</filename>
+			<filedisp>silkscreen_top.plc</filedisp>
+		</layer>
+		<layer type="SolderMask" H="35" Er="0.000" color="00001A00">
+			<filename>C:\Users\Krzysiek\Electronics\WiFi LED Controller v2\outputs\v1\soldermask_top.stc</filename>
+			<filedisp>soldermask_top.stc</filedisp>
+		</layer>
+		<layer type="Copper" H="35" Negative="DefaultPositive" color="00800000">
+			<filename>C:\Users\Krzysiek\Electronics\WiFi LED Controller v2\outputs\v1\copper_top.cmp</filename>
+			<filedisp>copper_top.cmp</filedisp>
+		</layer>
+		<layer type="Prepreg" H="1390" Er="4.800">
+		</layer>
+		<layer type="Copper" H="35" Negative="DefaultPositive" color="000000D0">
+			<filename>C:\Users\Krzysiek\Electronics\WiFi LED Controller v2\outputs\v1\copper_bottom.sol</filename>
+			<filedisp>copper_bottom.sol</filedisp>
+		</layer>
+		<layer type="SolderMask" H="35" Er="0.000" color="00000F18">
+			<filename>C:\Users\Krzysiek\Electronics\WiFi LED Controller v2\outputs\v1\soldermask_bottom.sts</filename>
+			<filedisp>soldermask_bottom.sts</filedisp>
+		</layer>
+		<layer type="Silkscreen" H="35" Er="0.000" color="00B7BFE3">
+			<filename>C:\Users\Krzysiek\Electronics\WiFi LED Controller v2\outputs\v1\silkscreen_bottom.pls</filename>
+			<filedisp>silkscreen_bottom.pls</filedisp>
+		</layer>
+		<layer type="BoardOutline" H="1600">
+			<filename>C:\Users\Krzysiek\Electronics\WiFi LED Controller v2\outputs\v1\outline.out</filename>
+			<filedisp>outline.out</filedisp>
+		</layer>
+	</boardlayers>
+
+	<boarddrillplates>
+		<drillplate from="top" to="btm" plated="yes" filled="no" microvia="no">
+			<filename>C:\Users\Krzysiek\Electronics\WiFi LED Controller v2\outputs\v1\drills.xln</filename>
+			<filedisp>drills.xln</filedisp>
+		</drillplate>
+	</boarddrillplates>
+
+	<ipc356>
+		<filename>C:\Users\Krzysiek\Electronics\WiFi LED Controller v2\outputs\v1\v1.ipc</filename>
+		<filedisp>v1.ipc</filedisp>
+	</ipc356>
+
+	<GerberSetup Incremental='no' OmitTrailingZeros='no' Milimeters='no' Len1='2' Len2='3'/>
+	<NCDSetup Guess='yes' Incremental='no' OmitTrailingZeros='no' Units='DefaultInch' Len1='2' Len2='3' Autooffset='yes'/>
+	<IPC356Setup AutoUnits='1' AutoMagnitude='1' LongPinID='yes' CpyFromDrill='yes' Autooffset='yes' AutoBtmAcc='yes'/>
+	<BoardOutlineDrawing srctype='0' trackwidthMin='0.004' trackwidthSlopStart='0.01' trackwidthMetaTrsh='0.012'/>
+	<IdentifyOutline mode='0' removeoutside='yes' horizMargin='0' vertMargin='0' brushBlob='1' />
+	<PosSaveRestoreTab>
+		<entry idx='0' pos='49.8109, 98.6634, -42.4424' rot='-0.066132, -0.416805, 0.902948, 0.081144'/>
+		<entry idx='1' pos='32.0374, 82.2773, -5.3235' rot='0.009963, -0.580119, 0.814310, 0.016178'/>
+		<entry idx='2' pos='32.1301, 36.7863, -3.9152' rot='0.020173, -0.615210, 0.787924, 0.016885'/>
+		<entry idx='3' pos='32.9207, 27.0870, -4.2977' rot='-0.438703, -0.415169, 0.532442, 0.593026'/>
+		<entry idx='4' pos='14.3831, 20.7552, -5.7458' rot='-0.561889, -0.028190, -0.010866, 0.826661'/>
+		<entry idx='5' pos='14.1388, 41.5657, -9.3353' rot='-0.461160, -0.008326, 0.006229, 0.887256'/>
+		<entry idx='6' pos='10.5030, 52.6719, -5.6545' rot='-0.455509, 0.356380, -0.543951, 0.607966'/>
+		<entry idx='7' pos='18.3654, 51.8224, -0.9931' rot='-0.530405, 0.426790, -0.487207, 0.546947'/>
+		<entry idx='8' pos='27.8126, 52.2173, -2.3360' rot='-0.458597, 0.409052, -0.546276, 0.569164'/>
+		<entry idx='9' pos='39.6995, 58.2587, -6.4211' rot='-0.049420, -0.422272, 0.902396, 0.070178'/>
+	</PosSaveRestoreTab>
+
+	<NetList DefaultColor="hash">
+	</NetList>
+
+	<ComponentList>
+		<c RefID="C1" model="4;2S;Capacitor;0603; n:2;fHght:0.8;color:906020"/>
+		<c RefID="C2" model="4;2S;Capacitor;0603; n:2;fHght:0.8;color:906020"/>
+		<c RefID="C3" model="4;2S;Capacitor;0603; n:2;fHght:0.8;color:906020"/>
+		<c RefID="C4" model="4;2S;Capacitor;0603; n:2;fHght:0.8;color:906020"/>
+		<c RefID="C5" model="4;2S;Capacitor;ALU-B; n:2;fHght:5.17;color:B0B0B0"/>
+		<c RefID="C6" model="4;2S;Capacitor;ALU-B; n:2;fHght:5.17;color:B0B0B0"/>
+		<c RefID="C7" model="4;2S;Capacitor;0603; n:2;fHght:0.8;color:906020"/>
+		<c RefID="C8" model="4;2S;Capacitor;0603; n:2;fHght:0.8;color:906020"/>
+		<c RefID="D1" model="4;2S;Diode;SOD123; n:2;fHght:1.17;color:383840"/>
+		<c RefID="D2" Hide="yes" model="4;MS;#2;Gull-Wing; n:7;fCaseWid:2.72;fCaseLen:5.61;fHght:2.31;color:404040;fPinPith:3.3;fPinSpan:5.95;fPinCont:0.901"/>
+		<c RefID="ISP1" side="top" model="3;MT;#4"/>
+		<c RefID="J1" side="top" model="5;3T;#0;Conn/Header;Header 90; n:10;bLeft:0;fLen:6;fHght:3.5;fHoldH:2.4;fHoldW:2.54;color:404040;fPinBL:3;bRndPin:0;fPinWid:0.64;colPin:FFD700"/>
+		<c RefID="J2" side="top" model="4;2T;Conn/Header;Header Vert; n:9;fHght:7;fHoldH:2.4;fHoldW:2.54;fBaseH:0.1;color:404040;fPinBL:3;bRndPin:0;fPinWid:0.64;colPin:FFD700"/>
+		<c RefID="J3" side="top" model="5;MT;#0;Conn/Header;Header Vert; n:9;fHght:7;fHoldH:2.4;fHoldW:2.54;fBaseH:0.1;color:404040;fPinBL:3;bRndPin:0;fPinWid:0.64;colPin:FFD700"/>
+		<c RefID="J4" side="top" model="5;3T;#0;Conn/Header;Header Vert; n:9;fHght:7;fHoldH:2.4;fHoldW:2.54;fBaseH:0.1;color:404040;fPinBL:3;bRndPin:0;fPinWid:0.64;colPin:FFD700"/>
+		<c RefID="L1" model="4;2S;Inductor;2012-12; n:2;fHght:1.2;color:303030"/>
+		<c RefID="LED1" model="4;2S;LED;0805; n:8;fBseHeight:0.4;cBseColor:FFFFFF;bDome:0;fLensHgt:0.625;fLensLen:1.25;fLensWid:1.12;colorLns:FD1010;cPadColor:FDF010"/>
+		<c RefID="LED2" model="4;2S;LED;0805; n:8;fBseHeight:0.4;cBseColor:FFFFFF;bDome:0;fLensHgt:0.625;fLensLen:1.25;fLensWid:1.12;colorLns:FD1010;cPadColor:FDF010"/>
+		<c RefID="Q1" model="4;3S;#1;SOT23; n:1;color:404040"/>
+		<c RefID="R1" model="4;2S;Resistor;0603; n:2;fHght:0.5;color:204020"/>
+		<c RefID="R2" model="4;2S;Resistor;0402; n:2;fHght:0.35;color:204020"/>
+		<c RefID="R3" model="4;2S;Resistor;0805; n:2;fHght:0.5;color:204020"/>
+		<c RefID="R4" model="4;2S;Resistor;0603; n:2;fHght:0.5;color:204020"/>
+		<c RefID="R5" model="4;2S;Resistor;0603; n:2;fHght:0.5;color:204020"/>
+		<c RefID="R6" model="4;2S;Resistor;0603; n:2;fHght:0.5;color:204020"/>
+		<c RefID="R7" model="4;2S;Resistor;0603; n:2;fHght:0.5;color:204020"/>
+		<c RefID="R8" model="4;2S;Resistor;0603; n:2;fHght:0.5;color:204020"/>
+		<c RefID="R9" model="4;2S;Resistor;0603; n:2;fHght:0.5;color:204020"/>
+		<c RefID="R10" model="4;2S;Resistor;0402; n:2;fHght:0.35;color:204020"/>
+		<c RefID="R11" model="4;2S;Resistor;0603; n:2;fHght:0.5;color:204020"/>
+		<c RefID="R12" model="4;2S;Resistor;0402; n:2;fHght:0.35;color:204020"/>
+		<c RefID="R13" model="4;2S;Resistor;0603; n:2;fHght:0.5;color:204020"/>
+		<c RefID="RESET1" model="4;MS;#2;Push-Button; n:11;fCaseWid:6.4;fBaseHght:2.3;fHght:2.9;color:707080;cBtnColor:F06060;fBtnDia:3.4;fRngDia:0;fRngHght:0;fPinPith:4.5;fPinSpan:9.03;fPinCont:0.775"/>
+		<c RefID="RESET2" model="4;MS;#2;Push-Button; n:11;fCaseWid:6.4;fBaseHght:2.3;fHght:2.9;color:707080;cBtnColor:F06060;fBtnDia:3.4;fRngDia:0;fRngHght:0;fPinPith:4.5;fPinSpan:9.03;fPinCont:0.775"/>
+		<c RefID="U1" model="5;MS;#1;Gull-Wing;TQFP32A; n:1;color:404040"/>
+		<c RefID="U2" Hide="yes" model="4;MS;#0;Extruded"/>
+		<c RefID="U3" Hide="yes" model="5;MS;#0;J-Lead;SOJ-b; n:1;color:404040"/>
+		<c RefID="U4" model="4;MS;#4;SOT223; n:1;color:404040"/>
+		<c RefID="XTAL1" model="5;MS;#2;Crystal;6x3.2mm; n:4;fHght:1.2;cCapColor:D6CBC9;fBaseHgt:0.75;cBseColor:797782"/>
+	</ComponentList>
+</CAMsetup>
